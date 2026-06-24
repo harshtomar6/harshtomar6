@@ -1,15 +1,20 @@
 # Hi, I'm Harsh Tomar 👋
 
-Lead Software Engineer @ [GoHighLevel](https://www.gohighlevel.com/) — full-stack builder. I ship complete products end to end, not just backend services or tooling.
+Lead Software Engineer @ [GoHighLevel](https://www.gohighlevel.com/) — and a builder at heart.
+
+> I turn ideas into shipped products — some pay rent, some are just 2am experiments.
+
+Self-taught, ship-small, distribution-over-models. I've worked on real-time audio/video at scale (YC-backed [Dyte](https://dyte.io/)) and now spend my time launching niche micro-SaaS end to end — idea, UX, backend, deploy, growth.
 
 🌐 [harshtomar.com](https://harshtomar.com)
 
 ## 🔭 What I work on
 
-- **Products, end to end** — from idea and UX to backend, deploy, and iteration
-- **Full-stack** — frontend, APIs, data, and infra under one roof
-- **AI-powered apps & tooling** — agentic systems, LLM automation, developer experience
-- **TypeScript / Node.js** — the bulk of my day-to-day
+- **Micro-SaaS, end to end** — [WhatsBoard](https://harshtomar.com) (WhatsApp → workspace, ~$1.1k MRR), and more in the pipeline
+- **Full-stack products** — frontend, APIs, data, and infra under one roof; ship fast, iterate on real users
+- **AI-powered apps** — RAG chatbots, LLM automation, agentic tooling
+- **Real-time systems** — WebRTC, SDK design, audio/video at scale
+- **Shipping velocity** — small bets, fast feedback, distribution first
 
 ## 🚀 Projects
 
