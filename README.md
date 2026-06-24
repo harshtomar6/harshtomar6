@@ -8,6 +8,12 @@ Self-taught, ship-small, distribution-over-models. I've worked on real-time audi
 
 🌐 [harshtomar.com](https://harshtomar.com)
 
+### 🟢 Catch me live
+
+My site has a near real-time presence feed — it shows what I'm actually doing *right now*: deep in a build at HighLevel, tinkering with some AI idea, or (let's be honest) doom-scrolling reels at 2am. No curated "available 9–5" facade — just the real signal, live.
+
+👉 **[See what I'm doing right now →](https://harshtomar.com)**
+
 ## 🔭 What I work on
 
 - **Micro-SaaS, end to end** — [WhatsBoard](https://harshtomar.com) (WhatsApp → workspace, ~$1.1k MRR), and more in the pipeline
