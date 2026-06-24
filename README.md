@@ -1,11 +1,14 @@
 # Hi, I'm Harsh Tomar 👋
 
-Software Engineer @ [GoHighLevel](https://www.gohighlevel.com/) — building backend services, platform tooling, and AI-driven developer infrastructure.
+Lead Software Engineer @ [GoHighLevel](https://www.gohighlevel.com/) — full-stack builder. I ship complete products end to end, not just backend services or tooling.
+
+🌐 [harshtomar.com](https://harshtomar.com)
 
 ## 🔭 What I work on
 
-- **Platform engineering** — multi-tenant backend services, APIs, and observability at scale
-- **AI ops & tooling** — agentic systems, LLM-powered automation, and developer experience
+- **Products, end to end** — from idea and UX to backend, deploy, and iteration
+- **Full-stack** — frontend, APIs, data, and infra under one roof
+- **AI-powered apps & tooling** — agentic systems, LLM automation, developer experience
 - **TypeScript / Node.js** — the bulk of my day-to-day
 
 ## 🚀 Projects
@@ -35,6 +38,3 @@ Software Engineer @ [GoHighLevel](https://www.gohighlevel.com/) — building bac
 ## 📫 Reach me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/harshtomar6)
-
-<!-- profile -->
-
